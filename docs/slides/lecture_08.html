@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+  <title>CCI Diploma 2020/2021: Unit 1: Lecture 8: Images and Simulating</title>
+  <link href="big.css" rel="stylesheet" type="text/css" />
+  <script src="big.js"></script>
+  <link href="themes/white.css" rel="stylesheet" type="text/css" />
+  <script>
+    BIG_ASPECT_RATIO = 1.6;
+  </script>
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/default.min.css">
+  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js"></script>
+  <script src="big.js"></script>
+  <script>
+    hljs.initHighlightingOnLoad();
+  </script>
+  <style>
+    .hljs {
+      overflow-x: initial;
+    }
+  </style>
+
+  <!-- Favicon links below -->
+  <link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png">
+  <link rel="manifest" href="../site.webmanifest">
+  <!-- favicons generated at https://favicon.io/favicon-generator/ -->
+
+</head>
+
+<body>
+  <div>CCI Diploma 2020/2021: Unit 1: Lecture 8: Images and Simulating.<br /><a href="../index.html">Back to slide index</a>.</div>
+  <div>I'm going to start every lecture with a promise and an artist to reference.</div>
+  <div>I promise that by the end of this lecture you'll be able to understand how images are made and stored on computers, and how they can be used to store more than "just" imagery.</div>
+  <div>The artist of the day is <a href="https://annaridler.com/bio">Anna Ridler</a>.</div>
+  <div>I was first drawn to her work by her piece <a href="https://annaridler.com/myriad-tulips">"Myriad (Tulips)"</a>. <p>Anna was <a href="https://www.arts.ac.uk/creative-computing-institute/partnerships-and-events/ual-creative-computing-fellowships">awarded a fellowship here at CCI</a>.</p>
+  </div>
+  <div>I think alot of Anna's work is about images and systems for making images, which is why she's perfect for today's lecture - which is on exactly those things!</div>
+  <div>The main things I want you keep in mind today is that images can also be thought of as two dimensional arrays of pixel data. The way that images are usually stored in memory is in one giant one dimensional array - with all the rows of image data stacked side by side. Pixels in p5.js are (usually) stored in RGBA order, something you can move through with a pair of nested for loops - one for dealing with the rows and one for dealing with the columns in those rows.</div>
+  <div>By the end of this lecture, you'll know more about:
+    <ul>
+      <li>Moving to four dimensions</li>
+      <li>Artists working with space and time</li>
+      <li>How p5.js works with images</li>
+      <li>Spatial compression and Temporal compression</li>
+      <li>The Fast Fourier transform</li>
+      <li>Three kinds of feedback: audio, visual and interactive</li>
+      <li>Conway's Game of Life, Cellular Automata and rules 30 and 110</li>
+      <li>Boids, Evolved Virtual Creatures and emergence</li>
+      <li>How you can use p5.js to simulate different systems</li>
+    </ul>
+  </div>
+  <div>Moving to four dimensions.</div>
+  <div>
+    <ul>
+      <li>Going from Cube to <a href="https://en.wikipedia.org/wiki/Hypercube">Hypercube</a>.</li>
+      <li>You can also go from the Sphere to the <a href="https://en.wikipedia.org/wiki/Four-dimensional_space#Hypersphere">Hypersphere</a>.</li>
+      <li>You can also think of <a href="https://en.wikipedia.org/wiki/Time_in_physics">Time as the fourth dimension</a>.</li>
+      <li>You can use any variable as a new dimension, and measure distance between them using Pythagoras, as we saw in previous lectures.</li>
+      <li><a href="https://www.youtube.com/watch?v=2s4TqVAbfz4">Perfect Shapes in Higher Dimensions</a> from <a href="https://www.youtube.com/user/numberphile/featured">Numberphile</a>, which is a great channel to get lost in.</a></li>
+    </ul>
+  </div>
+  <div>Artists working with space and time.</div>
+  <div>
+    <ul>
+      <li><a href="https://en.wikipedia.org/wiki/Eadweard_Muybridge">Eadweard Muybridge</a>, <a href="https://en.wikipedia.org/wiki/Sallie_Gardner_at_a_Gallop">Sallie Gardner at a Gallop</a>.</li>
+      <li><a href="https://en.wikipedia.org/wiki/%C3%89tienne-Jules_Marey">Étienne-Jules Marey and the photographic gun</a>.</li>
+      <li><a href="https://en.wikipedia.org/wiki/Marcel_Duchamp">Marcel Duchamp</a>, Nude descending a staircase.</li>
+      <li><a href="https://en.wikipedia.org/wiki/Umberto_Boccioni">Umberto Boccioni</a>, <a href="https://en.wikipedia.org/wiki/Unique_Forms_of_Continuity_in_Space">Unique Forms of Continuity in Space</a> - see at the Tate Modern.</li>
+      <li><a href="https://en.wikipedia.org/wiki/James_Turrell">James Turrell and skyspaces</a>.</li>
+      <li><a href="https://en.wikipedia.org/wiki/Richard_Long_(artist)">Richard Long</a>, <a href="http://www.richardlong.org/Sculptures/2011sculptures/linewalking.html">A Line Made by Walking</a>.</li>
+    </ul>
+  </div>
+  <div>How p5.js works with images.</div>
+  <div>
+    <a href="https://p5js.org/reference/#/p5/loadImage">https://p5js.org/reference/#/p5/loadImage</a>
+  </div>
+  <div>
+    <a href="https://p5js.org/reference/#/p5/image">https://p5js.org/reference/#/p5/image</a>
+  </div>
+  <div>
+    <a href="https://p5js.org/reference/#/p5/createImage">https://p5js.org/reference/#/p5/createImage</a>
+  </div>
+  <div>
+    <a href="https://p5js.org/reference/#/p5/pixels">https://p5js.org/reference/#/p5/pixels</a>
+  </div>
+  <div>
+    <a href="https://p5js.org/examples/image-load-and-display-image.html">https://p5js.org/examples/image-load-and-display-image.html</a>
+  </div>
+  <div>
+    <a href="https://p5js.org/examples/image-transparency.html">https://p5js.org/examples/image-transparency.html</a>
+  </div>
+  <div>
+    <a href="https://p5js.org/examples/image-alpha-mask.html">https://p5js.org/examples/image-alpha-mask.html</a>
+  </div>
+  <div>
+    <a href="https://p5js.org/examples/image-create-image.html">https://p5js.org/examples/image-create-image.html</a>
+  </div>
+  <div>
+    <a href="https://p5js.org/examples/image-pointillism.html">https://p5js.org/examples/image-pointillism.html</a>
+  </div>
+  <div>
+    <a href="https://p5js.org/reference/#/p5/saveCanvas">https://p5js.org/reference/#/p5/saveCanvas</a>
+  </div>
+  <div>
+    <a href="https://p5js.org/reference/#/p5.Image">https://p5js.org/reference/#/p5.Image - p5.Image is a super useful object to use - it even allows you to load animated gifs!</a>
+  </div>
+  <div>Spatial compression and Temporal compression.</div>
+  <div>
+    <ul>
+      <li><a href="https://en.wikipedia.org/wiki/JPEG">JPEG</a> is spatial compression for still images.</li>
+      <li><a href="https://en.wikipedia.org/wiki/MPEG-1">MPEG</a> is temporal compression for moving images and sound.</li>
+      <li><a href="https://en.wikipedia.org/wiki/Glitch">Glitch</a> and <a href="https://en.wikipedia.org/wiki/Glitch">Glitch Art</a>.</li>
+      <li>See Rosa Menkman's <a href="https://beyondresolution.info/">amazing series of lectures on artefacts that result from accidents in both analogue and digital media (such as glitch, encoding and feedback).</a></li>
+    </ul>
+  </div>
+  <div>The Fast Fourier transform.</div>
+  <div>
+    <ul>
+      <li>The <a href="https://en.wikipedia.org/wiki/Fast_Fourier_transform">Fast Fourier transform</a> is a way of splitting up any waveform into a series of simpler waves.</li>
+      <li>This can be very useful to find out how much bass, mid and treble any sound has and is used in music visualisers.</li>
+      <li>See this <a href="http://www.jezzamon.com/fourier/index.html">great interactive website</a> for an explanation and further links.</li>
+      <li>See this <a href="https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/">interactive Better Explained</a> article for a further, further explanation.</li>
+    </ul>
+  </div>
+  <div>Three kinds of feedback: audio, visual and interactive.</div>
+  <div>
+    <ul>
+      <li><a href="https://en.wikipedia.org/wiki/Feedback">Feedback</a> is when you feed the output of a signal into the input of it. It's a very powerful technique that can be used in a variety of fields:</li>
+      <li><a href="https://en.wikipedia.org/wiki/Audio_feedback">Audio feedback</a>. Jimi Hendrix used this to great effect.</li>
+      <li><a href="https://en.wikipedia.org/wiki/Video_feedback">Video feedback</a>, the video equivalent.</li>
+      <li><a href="https://en.wikipedia.org/wiki/Nam_June_Paik">Nam June Paik</a>, <a href="http://medienkunstnetz.de/works/tv-buddha/">TV-Buddha</a>. <a href="http://medienkunstnetz.de/mediaartnet/">Media Art Net</a> is a great resource.</li>
+      <li><a href="https://en.wikipedia.org/wiki/Douglas_Trumbull">Douglas Trumbull</a>, <a href="https://www.youtube.com/watch?v=ou6JNQwPWE0">2001 Star Gate Sequence</a>.</li>
+      <li><a href="http://flong.com/archive/texts/lists/slit_scan/index.html">An Informal Catalogue of Slit-Scan Video Artworks and Research by Golan Levin.</a> <a href="https://editor.p5js.org/full/B1L5j8uk4">Slit Scan p5.js demonstration by Daniel Shiffman</a>.</li>
+      <li><a href="http://www.newmedia-art.org/cgi-bin/show-oeu.asp?ID=150000000031079&lg=GBR">Going around the corner piece</a> by <a href="https://en.wikipedia.org/wiki/Bruce_Nauman">Bruce Nauman</a>.</li>
+      <li>Tell the story of making <a href="https://www.youtube.com/watch?v=IQ9aw9pLfQY">audio reactive visuals for Massive Attack in 2008</a>.</li>
+      <li>Finally, <a href="https://twitter.com/gr3gjsmith/status/1017073209903058945">a great Twitter thread on the history of new media art</a> from <a href="http://serialconsign.com/">Greg J. Smith</a>.</li>
+    </ul>
+  </div>
+  <div>Conway's Game of Life, Cellular Automata and rules 30 and 110.</div>
+  <div>
+    <ul>
+      <li><a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life">Conway's Game of Life</a> was invented by John Conway in 1970. Conway created it to simulate simple biological life with four rules.</li>
+      <li>It turns out you can even make <a href="https://www.youtube.com/watch?v=xP5-iIeKXE8">Game of Life inside of Game of Life</a>.</li>
+      <li>There was an existing field called <a href="https://en.wikipedia.org/wiki/Cellular_automaton">Cellular Automata</a> which began in the 1940's. <a href="https://en.wikipedia.org/wiki/Nils_Aall_Barricelli"></a>Nils Aall Barricelli was a pioneer in this area. <a href="http://cultureandcommunication.org/galloway/Barricelli/">A demonstration of his work</a>. </li>
+      <li><a href="https://en.wikipedia.org/wiki/Stephen_Wolfram">Stephen Wolfram</a> did further work on CA's in the 1980's discovering several interesting systems - including <a href="https://en.wikipedia.org/wiki/Rule_30">Rule 30</a> (which is unpredictable) and <a href="https://en.wikipedia.org/wiki/Rule_110">Rule 110</a> (which has been proven to be <a href="https://en.wikipedia.org/wiki/Turing_completeness">Turing complete</a>).</li>
+      <li>There is also <a href="https://en.wikipedia.org/wiki/The_Game_(mind_game)">The Game</a>, which I just lost (again).</li>
+    </ul>
+  </div>
+  <div>Boids, Evolved Virtual Creatures and emergence.</div>
+  <div>
+    <ul>
+      <li><a href="https://en.wikipedia.org/wiki/Boids">Boids</a> was an artifical life system developed by Craig Reynolds in 1986. It simulated realistic flocking with just three simple rules. Compare the simulation to this <a href="https://www.youtube.com/watch?v=eakKfY5aHmY">murmuration</a>.</li>
+      <li><a href="https://www.youtube.com/watch?v=JBgG_VSP7f8">Evolved Virtual Creatures</a> was a film created by <a href="https://en.wikipedia.org/wiki/Karl_Sims">Karl Sims</a> in 1994 that showed how virtual creatures could evolve the ability to walk.</li>
+      <li>Both are examples of <a href="https://en.wikipedia.org/wiki/Emergence">emergence</a> - or the idea that "the whole is greater than the sum of the parts".</li>
+      <li>A <a href="https://meltingasphalt.com/interactive/going-critical/">great interactive essay on complex systems</a>, how things spread - from viruses to knowledge. This area of interactive essays is interesting in itself - <a href="https://twitter.com/flantz/status/1128413192504455168">a good Twitter thread on the subject</a>.</li>
+      <li><a href="http://learnjsdata.com/">Learning JS Data</a> - "this guide teaches the basics of manipulating data using JavaScript in the browser, or in node.js." - very useful tutorial on reading in data in JavaScript.</li>
+    </ul>
+  </div>
+  <div>How you can use p5.js to simulate different systems</div>
+  <div>
+    <a href="https://p5js.org/examples/simulate-game-of-life.html">https://p5js.org/examples/simulate-game-of-life.html</a>
+  </div>
+  <div>
+    <a href="https://p5js.org/examples/simulate-wolfram-ca.html">https://p5js.org/examples/simulate-wolfram-ca.html</a>
+  </div>
+  <div>
+    <a href="https://p5js.org/examples/simulate-spirograph.html">https://p5js.org/examples/simulate-spirograph.html</a>
+  </div>
+  <div>
+    <a href="https://p5js.org/examples/simulate-l-systems.html">https://p5js.org/examples/simulate-l-systems.html</a>
+  </div>
+  <div>
+    <a href="https://p5js.org/examples/simulate-recursive-tree.html">https://p5js.org/examples/simulate-recursive-tree.html</a>
+  </div>
+  <div>
+    <a href="https://p5js.org/examples/simulate-stepping-feet-illusion.html">https://p5js.org/examples/simulate-stepping-feet-illusion.html</a>
+  </div>
+  <div>
+    <a href="https://p5js.org/examples/simulate-particles.html">https://p5js.org/examples/simulate-particles.html</a>
+  </div>
+  <div>Thanks! <br /><a href="../index.html">Back to slide index</a>.</div>
+</body>
+
+</html>
