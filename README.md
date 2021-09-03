@@ -39,19 +39,17 @@ You can find our code of conduct here: [code_of_conduct.md](CODE_OF_CONDUCT.md),
 
 The [Diploma in Creative Computing](https://www.arts.ac.uk/subjects/creative-computing/undergraduate/ual-creative-computing-institute-diploma) is split into two blocks of teaching. **Block 1** takes up the entire Autumn term and half of the Spring term. **Block 2** follows on, taking the second half of Spring term and the entire Summer term.
 
-TBC will be supporting the online Diploma cohort for all units as Diploma Head.
-
 **Block 1** consists of three units:
 
-- Unit 1: Creative Coding and Creative Computing Frameworks - taught by me and TBC.
-- Unit 2: Introducing Computational Futures and Artificial Intelligence - taught by TBC and [Dr. Rebecca Fiebrink](https://www.arts.ac.uk/creative-computing-institute/people/rebecca-fiebrink).
-- [Unit 3: Creative Practice: Visual Coding and Physical Computing](https://github.com/developdata/CCIDiploma-Unit3) - taught by [Indira Knight](https://www.linkedin.com/in/indira-k-bb857515b/) and TBC.
+- Unit 1: Creative Coding and Creative Computing Frameworks - taught by me.
+- Unit 2: Introducing Computational Futures and Artificial Intelligence - taught by [Murad Khan](https://www.muradkhan.co.uk/).
+- Unit 3: Creative Practice: Visual Coding and Physical Computing - taught by [Matthew Plummer-Fernández](https://www.plummerfernandez.com/).
 
 **Block 2** consists of three units:
 
 - Unit 4: Coding for Collaborative App Development - taught by me.
-- Unit 5: Working and the Digital Creative Industries - taught by TBC.
-- Unit 6: Creative Practice: Computational Environments - taught by [Indira Knight](https://www.linkedin.com/in/indira-k-bb857515b/) and TBC.
+- Unit 5: Working and the Digital Creative Industries - taught by [Murad Khan](https://www.muradkhan.co.uk/).
+- Unit 6: Creative Practice: Computational Environments - taught by [Matthew Plummer-Fernández](https://www.plummerfernandez.com/).
 
 ## Learning Outcomes and platforms for doing so
 
@@ -208,4 +206,4 @@ Further sessions are TBC, depending on multiple choice test and practical exam t
 
 ## Thanks
 
-Thanks to Matt Pyke, Andy Cameron, JT Nimoy, Alex Fefegha, Anna Troisi, Ben Kelly, Cathy Hoste, Charlotte Webb, Julia Makivic, Kenneth Lim, Matt Jarvis, Melisa Simpson, Phoenix Perry, Rebecca Fiebrink, Sheldon Brown, Tom Lynch, Eva Wilkinson, Vali Lalioti, Indira Knight, Alice Stewart, Ben Stopher, Mick Grierson, Georgina Capdevila Cano, Alan Warburton, Rebecca Ross, Jaap de Maat, Lauren McCarthy, Kyle McDonald, Jonathan Harris, Zach Lieberman, Jessica Bland, Rick Walker, Graham Bennett, Toby Milner-Gulland, Liam Walsh, Golan Levin, Greg Smith, Mark Lundin, Xiaohan Zhang, Lia, Joshua Goldberg, Rosa Menkman, Daniel Shiffman, Tega Brain, Caitlin Morris, Harri Lewis and Rune Madsen.
+Thanks to Matthew Plummer-Fernández, Murad Khan, Matt Pyke, Andy Cameron, JT Nimoy, Alex Fefegha, Anna Troisi, Ben Kelly, Cathy Hoste, Charlotte Webb, Julia Makivic, Kenneth Lim, Matt Jarvis, Melisa Simpson, Phoenix Perry, Rebecca Fiebrink, Sheldon Brown, Tom Lynch, Eva Wilkinson, Vali Lalioti, Indira Knight, Alice Stewart, Ben Stopher, Mick Grierson, Georgina Capdevila Cano, Alan Warburton, Rebecca Ross, Jaap de Maat, Lauren McCarthy, Kyle McDonald, Jonathan Harris, Zach Lieberman, Jessica Bland, Rick Walker, Graham Bennett, Toby Milner-Gulland, Liam Walsh, Golan Levin, Greg Smith, Mark Lundin, Xiaohan Zhang, Lia, Joshua Goldberg, Rosa Menkman, Daniel Shiffman, Tega Brain, Caitlin Morris, Harri Lewis and Rune Madsen.
