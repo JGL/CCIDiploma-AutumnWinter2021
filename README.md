@@ -48,8 +48,8 @@ The [Diploma in Creative Computing](https://www.arts.ac.uk/subjects/creative-com
 **Block 2** consists of three units:
 
 - Unit 4: Coding for Collaborative App Development - taught by me.
-- Unit 5: Working and the Digital Creative Industries - taught by [Murad Khan](https://www.muradkhan.co.uk/).
-- Unit 6: Creative Practice: Computational Environments - taught by [Matthew Plummer-Fernández](https://www.plummerfernandez.com/).
+- Unit 5: Working and the Digital Creative Industries - taught by TBC.
+- Unit 6: Creative Practice: Computational Environments - taught by [Murad Khan](https://www.muradkhan.co.uk/).
 
 ## Learning Outcomes and platforms for doing so
 
