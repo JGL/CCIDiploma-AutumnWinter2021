@@ -4,10 +4,9 @@
 
 - [All term dates](https://www.arts.ac.uk/students/term-dates) - N.B. if you are doing a degree at UAL you are in [Higher Education](https://en.wikipedia.org/wiki/Higher_education).
 - Lecturer: [Joel Gethin Lewis](https://joelgethinlewis.com/).
-- Location: [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute), in person at Camberwell, London and online via Collaborate Ultra on ual:Moodle.
+- Location: [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute), in person at Camberwell, London and online via Collaborate Ultra on [ual:Moodle](https://moodle.arts.ac.uk/).
 - Contact me via the [UAL Creative Computing Institute Slack](https://ual-cci.slack.com).
-- Weekly Unit 1 remote teaching times are:
-  - Every Tuesday 1000-1300.
+- Weekly Unit 1 remote teaching times are every Tuesday 1000-1300 via Collaborate Ultra on [ual:Moodle](https://moodle.arts.ac.uk/).
 - _**You are expected to undertake independent study of about 25 hours per week - spread across all the courses you are taking in the Diploma.**_
 - Tutorials take place every Monday. These tutorials are for you to discuss anything you'd like - from the how the course is going, to your own practice, to work placements or anything else. My aim is to have at least two tutorials with every student on the diploma every term.
   - Remote session 1: Mondays 1030-1300.
