@@ -4,9 +4,9 @@
 
 - [All term dates](https://www.arts.ac.uk/students/term-dates) - N.B. if you are doing a degree at UAL you are in [Higher Education](https://en.wikipedia.org/wiki/Higher_education).
 - Lecturer: [Joel Gethin Lewis](https://joelgethinlewis.com/).
-- Location: [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute), Camberwell, London and online!
+- Location: [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute), in person at Camberwell, London and online via Collaborate Ultra on ual:Moodle.
 - Contact me via the [UAL Creative Computing Institute Slack](https://ual-cci.slack.com).
-- Weekly teaching times are:
+- Weekly Unit 1 remote teaching times are:
   - Every Tuesday 1000-1300.
 - _**You are expected to undertake independent study of about 25 hours per week - spread across all the courses you are taking in the Diploma.**_
 - Tutorials take place every Monday. These tutorials are for you to discuss anything you'd like - from the how the course is going, to your own practice, to work placements or anything else. My aim is to have at least two tutorials with every student on the diploma every term.
@@ -18,6 +18,8 @@
 - [Lecture and Workshop slides](https://jgl.github.io/CCIDiploma-AutumnWinter2021/)
 - Please see the [Unit 1 Wiki for all non-lecture notes, reading lists and other resources](https://github.com/JGL/CCIDiploma-AutumnWinter2021/wiki).
 - [Take a look at the student/crowd sourced set of notes on all of Block 1 from last years Diplomats!](https://github.com/rociorey/cci-2020/wiki).
+- [The Library Services Web pages aim to provide quick access to a range of relevant high quality e-resources](https://www.arts.ac.uk/students/library-services). Benelia Salmon is the Academic Support Librarian for CCI: [b.salmon@arts.ac.uk](mailto:b.salmon@arts.ac.uk). Please contact her at the email address above if you have any questions regarding library resources or if you wish to book a one-to-one session on library information and research skills. You can find more information on CCI specific library resources in your [Creative Computing Institute subject guide](https://arts.ac.libguides.com/CCI).
+- LinkedIn Learning (formally Lynda.com) is also a great resource for learning software packages, coding or even 3D tools like Blender. You can find a link to LinkedIn Learning on <https://canvas.arts.ac.uk/>.
 
 ## Code of Conduct
 
@@ -88,7 +90,7 @@ At the end of this block (midway through the 2022 Spring term) you should have t
 
 ### Teaching Style
 
-I want to spend as much time working through problems and discussing them together, rather than you listening to me lecture. Each teaching session will be structured in the following way:
+I want to spend as much time working through problems and discussing them together, rather than you listening to me lecture. Each Tuesday's teaching session will be structured in the following way:
 
 - Hour 1: **Explore/engage** - discuss the previous week's lecture, meditate, reflect, explain.
 - Hour 2: **Experiment/play** - work on creative code exercises based on the previous week's lecture, our discussion in the previous hour and excerpts from [Code as Creative Medium: An educator's handbook](https://mitpress.mit.edu/books/code-creative-medium) by [Golan Levin](http://flong.com/) and [Tega Brain](http://tegabrain.com/).
