@@ -91,9 +91,9 @@ At the end of this block (midway through the 2022 Spring term) you should have t
 
 I want to spend as much time working through problems and discussing them together, rather than you listening to me lecture. Each Tuesday's teaching session will be structured in the following way:
 
-- Hour 1: 0930-1030 **Explore/engage** - discuss the previous week's lecture, meditate, reflect, explain.
-- Hour 2: 1045-1145 **Experiment/play** - work on creative code exercises based on the previous week's lecture, our discussion in the previous hour and excerpts from [Code as Creative Medium: An educator's handbook](https://mitpress.mit.edu/books/code-creative-medium) by [Golan Levin](http://flong.com/) and [Tega Brain](http://tegabrain.com/).
-- Hour 3: 1200-1300 **Watch/listen** - absorb a lecture from me, in preparation for next weeks session.
+- Hour 1: 0930-1030: **Explore/engage** - discuss the previous week's lecture, meditate, reflect, explain.
+- Hour 2: 1045-1145: **Experiment/play** - work on creative code exercises based on the previous week's lecture, our discussion in the previous hour and excerpts from [Code as Creative Medium: An educator's handbook](https://mitpress.mit.edu/books/code-creative-medium) by [Golan Levin](http://flong.com/) and [Tega Brain](http://tegabrain.com/).
+- Hour 3: 1200-1300: **Watch/listen** - absorb a lecture from me, in preparation for next weeks session.
 
 _**You are expected to undertake independent study of 25 hours per week over the three units that you will be taught every block.**_
 
@@ -129,8 +129,8 @@ Following the <a href="https://twitter.com/helenbevan/status/1175650749797167104
 
 See the [Unit 1 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63591) for a link to the Collaborate Ultra Session for this week.
 
-- 0930-1030: **Introduction lecture** - via Collaborate Ultra on Moodle, watch my introduction lecture on the course, creative coding, JavaScript and specifically p5.js. [Slides for reference](https://jgl.github.io/CCIDiploma-AutumnWinter2021/slides/lecture_00.html).
-- 1045-1145: via Collaborate Ultra on Moodle particpate in the [**Introduction workshop**](https://jgl.github.io/CCIDiploma-AutumnWinter2021/slides/workshop_00.html) - signing up for websites, introducing yourselves and having a discussion about the unit and course.
+- 1000-1100: **Introduction lecture** - via Collaborate Ultra on Moodle, watch my introduction lecture on the course, creative coding, JavaScript and specifically p5.js. [Slides for reference](https://jgl.github.io/CCIDiploma-AutumnWinter2021/slides/lecture_00.html).
+- 1100-1200: via Collaborate Ultra on Moodle particpate in the [**Introduction workshop**](https://jgl.github.io/CCIDiploma-AutumnWinter2021/slides/workshop_00.html) - signing up for websites, introducing yourselves and having a discussion about the unit and course.
 - 1200-1300: **Watch/listen 1** - via Collaborate Ultra on Moodle absorb a lecture from me on Counting and Remembering, in preparation for next weeks session. [Slides for reference](https://jgl.github.io/CCIDiploma-AutumnWinter2021/slides/lecture_01.html).
 
 ## Week 2 - Tuesday 5th October 2021 (week 40 of 52) - Counting and Remembering
