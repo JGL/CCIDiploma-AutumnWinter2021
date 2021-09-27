@@ -6,7 +6,7 @@
 - Lecturer: [Joel Gethin Lewis](https://joelgethinlewis.com/).
 - Location: [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute), in person at Camberwell, London and online via Collaborate Ultra on [ual:Moodle](https://moodle.arts.ac.uk/).
 - Contact me via the [UAL Creative Computing Institute Slack](https://ual-cci.slack.com).
-- Weekly Unit 1 remote teaching times are every Tuesday 1000-1300 via Collaborate Ultra on [ual:Moodle](https://moodle.arts.ac.uk/).
+- Weekly Unit 1 remote teaching times are every Tuesday 0930-1300 via Collaborate Ultra on [ual:Moodle](https://moodle.arts.ac.uk/).
 - _**You are expected to undertake independent study of about 25 hours per week - spread across all the courses you are taking in the Diploma.**_
 - Tutorials take place every Monday. These tutorials are for you to discuss anything you'd like - from the how the course is going, to your own practice, to work placements or anything else. My aim is to have at least two tutorials with every student on the diploma every term.
   - Remote session 1: Mondays 1030-1300.
@@ -91,9 +91,9 @@ At the end of this block (midway through the 2022 Spring term) you should have t
 
 I want to spend as much time working through problems and discussing them together, rather than you listening to me lecture. Each Tuesday's teaching session will be structured in the following way:
 
-- Hour 1: **Explore/engage** - discuss the previous week's lecture, meditate, reflect, explain.
-- Hour 2: **Experiment/play** - work on creative code exercises based on the previous week's lecture, our discussion in the previous hour and excerpts from [Code as Creative Medium: An educator's handbook](https://mitpress.mit.edu/books/code-creative-medium) by [Golan Levin](http://flong.com/) and [Tega Brain](http://tegabrain.com/).
-- Hour 3: **Watch/listen** - absorb a lecture from me, in preparation for next weeks session.
+- Hour 1: 0930-1030 **Explore/engage** - discuss the previous week's lecture, meditate, reflect, explain.
+- Hour 2: 1045-1145 **Experiment/play** - work on creative code exercises based on the previous week's lecture, our discussion in the previous hour and excerpts from [Code as Creative Medium: An educator's handbook](https://mitpress.mit.edu/books/code-creative-medium) by [Golan Levin](http://flong.com/) and [Tega Brain](http://tegabrain.com/).
+- Hour 3: 1200-1300 **Watch/listen** - absorb a lecture from me, in preparation for next weeks session.
 
 _**You are expected to undertake independent study of 25 hours per week over the three units that you will be taught every block.**_
 
@@ -129,104 +129,104 @@ Following the <a href="https://twitter.com/helenbevan/status/1175650749797167104
 
 See the [Unit 1 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63591) for a link to the Collaborate Ultra Session for this week.
 
-- 1000-1100: **Introduction lecture** - via Collaborate Ultra on Moodle, watch my introduction lecture on the course, creative coding, JavaScript and specifically p5.js. [Slides for reference](https://jgl.github.io/CCIDiploma-AutumnWinter2021/slides/lecture_00.html).
-- 1100-1200: via Collaborate Ultra on Moodle particpate in the [**Introduction workshop**](https://jgl.github.io/CCIDiploma-AutumnWinter2021/slides/workshop_00.html) - signing up for websites, introducing yourselves and having a discussion about the unit and course.
+- 0930-1030: **Introduction lecture** - via Collaborate Ultra on Moodle, watch my introduction lecture on the course, creative coding, JavaScript and specifically p5.js. [Slides for reference](https://jgl.github.io/CCIDiploma-AutumnWinter2021/slides/lecture_00.html).
+- 1045-1145: via Collaborate Ultra on Moodle particpate in the [**Introduction workshop**](https://jgl.github.io/CCIDiploma-AutumnWinter2021/slides/workshop_00.html) - signing up for websites, introducing yourselves and having a discussion about the unit and course.
 - 1200-1300: **Watch/listen 1** - via Collaborate Ultra on Moodle absorb a lecture from me on Counting and Remembering, in preparation for next weeks session. [Slides for reference](https://jgl.github.io/CCIDiploma-AutumnWinter2021/slides/lecture_01.html).
 
 ## Week 2 - Tuesday 5th October 2021 (week 40 of 52) - Counting and Remembering
 
 See the [Unit 1 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63591) for a link to the Collaborate Ultra Session for this week.
 
-- 1000-1100: **Explore/engage 1** - via Collaborate Ultra on Moodle, discuss the previous week's lecture, meditate, reflect, explain.
-- 1100-1200: **Experiment/play 1** - via Collaborate Ultra on Moodle, work on creative code exercises based on the previous week's lecture and our discussion in the previous hour - exploring p5.js website, forum, reference and examples.
+- 0930-1030: **Explore/engage 1** - via Collaborate Ultra on Moodle, discuss the previous week's lecture, meditate, reflect, explain.
+- 1045-1145: **Experiment/play 1** - via Collaborate Ultra on Moodle, work on creative code exercises based on the previous week's lecture and our discussion in the previous hour - exploring p5.js website, forum, reference and examples.
 - 1200-1300: **Watch/listen 2** - via Collaborate Ultra on Moodle, absorb a lecture from me on Drawing and Colouring, in preparation for next weeks session. [Slides for reference](https://jgl.github.io/CCIDiploma-AutumnWinter2021/slides/lecture_02.html).
 
 ## Week 3 - Tuesday 12th October 2021 (week 41 of 52) - Drawing and Colouring
 
 See the [Unit 1 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63591) for a link to the Collaborate Ultra Session for this week.
 
-- 1000-1100: **Explore/engage 2** - via Collaborate Ultra on Moodle, discuss the previous week's lecture, meditate, reflect, explain.
-- 1100-1200: **Experiment/play 2** - via Collaborate Ultra on Moodle, work on creative code exercises based on the previous week's lecture, our discussion in the previous hour and excerpts from [Code as Creative Medium: An educator's handbook](https://mitpress.mit.edu/books/code-creative-medium) by [Golan Levin](http://flong.com/) and [Tega Brain](http://tegabrain.com/) - Color (sic) exercises and Graphic Elements exercises.
+- 0930-1030: **Explore/engage 2** - via Collaborate Ultra on Moodle, discuss the previous week's lecture, meditate, reflect, explain.
+- 1045-1145: **Experiment/play 2** - via Collaborate Ultra on Moodle, work on creative code exercises based on the previous week's lecture, our discussion in the previous hour and excerpts from [Code as Creative Medium: An educator's handbook](https://mitpress.mit.edu/books/code-creative-medium) by [Golan Levin](http://flong.com/) and [Tega Brain](http://tegabrain.com/) - Color (sic) exercises and Graphic Elements exercises.
 - 1200-1300: **Watch/listen 3** - via Collaborate Ultra on Moodle, absorb a lecture from me on Deciding, in preparation for next weeks session. [Slides for reference](https://jgl.github.io/CCIDiploma-AutumnWinter2021/slides/lecture_03.html).
 
 ## Week 4 - Tuesday 19th October 2021 (week 42 of 52) - Deciding
 
 See the [Unit 1 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63591) for a link to the Collaborate Ultra Session for this week.
 
-- 1000-1100: **Explore/engage 3** - via Collaborate Ultra on Moodle, discuss the previous week's lecture, meditate, reflect, explain.
-- 1100-1200: **Experiment/play 3** - via Collaborate Ultra on Moodle, work on creative code exercises based on the previous week's lecture, our discussion in the previous hour and excerpts from [Code as Creative Medium: An educator's handbook](https://mitpress.mit.edu/books/code-creative-medium) by [Golan Levin](http://flong.com/) and [Tega Brain](http://tegabrain.com/) - Conditional Testing exercises.
+- 0930-1030: **Explore/engage 3** - via Collaborate Ultra on Moodle, discuss the previous week's lecture, meditate, reflect, explain.
+- 1045-1145: **Experiment/play 3** - via Collaborate Ultra on Moodle, work on creative code exercises based on the previous week's lecture, our discussion in the previous hour and excerpts from [Code as Creative Medium: An educator's handbook](https://mitpress.mit.edu/books/code-creative-medium) by [Golan Levin](http://flong.com/) and [Tega Brain](http://tegabrain.com/) - Conditional Testing exercises.
 - 1200-1300: **Watch/listen 4** - via Collaborate Ultra on Moodle, absorb a lecture from me on Repeating, in preparation for next weeks session. [Slides for reference](https://jgl.github.io/CCIDiploma-AutumnWinter2021/slides/lecture_04.html).
 
 ## Week 5 - Tuesday 26th October 2021 (week 43 of 52) - Repeating
 
 See the [Unit 1 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63591) for a link to the Collaborate Ultra Session for this week.
 
-- 1000-1100: **Explore/engage 4** - via Collaborate Ultra on Moodle, discuss the previous week's lecture, meditate, reflect, explain.
-- 1100-1200: **Experiment/play 4** - via Collaborate Ultra on Moodle, work on creative code exercises based on the previous week's lecture, our discussion in the previous hour and excerpts from [Code as Creative Medium: An educator's handbook](https://mitpress.mit.edu/books/code-creative-medium) by [Golan Levin](http://flong.com/) and [Tega Brain](http://tegabrain.com/) - Iteration Exercises.
+- 0930-1030: **Explore/engage 4** - via Collaborate Ultra on Moodle, discuss the previous week's lecture, meditate, reflect, explain.
+- 1045-1145: **Experiment/play 4** - via Collaborate Ultra on Moodle, work on creative code exercises based on the previous week's lecture, our discussion in the previous hour and excerpts from [Code as Creative Medium: An educator's handbook](https://mitpress.mit.edu/books/code-creative-medium) by [Golan Levin](http://flong.com/) and [Tega Brain](http://tegabrain.com/) - Iteration Exercises.
 - 1200-1300: **Watch/listen 5** - via Collaborate Ultra on Moodle, absorb a lecture from me on Listing and Randomising, in preparation for next weeks session. [Slides for reference](https://jgl.github.io/CCIDiploma-AutumnWinter2021/slides/lecture_05.html).
 
 ## Week 6 - Tuesday 2nd November 2021 (week 44 of 52) - Listing and Randomising
 
 See the [Unit 1 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63591) for a link to the Collaborate Ultra Session for this week.
 
-- 1000-1100: **Explore/engage 5** - via Collaborate Ultra on Moodle, discuss the previous week's lecture, meditate, reflect, explain.
-- 1100-1200: **Experiment/play 5** - via Collaborate Ultra on Moodle, work on creative code exercises based on the previous week's lecture, our discussion in the previous hour and excerpts from [Code as Creative Medium: An educator's handbook](https://mitpress.mit.edu/books/code-creative-medium) by [Golan Levin](http://flong.com/) and [Tega Brain](http://tegabrain.com/) - Arrays exercises and Unpredictability exercises.
+- 0930-1030: **Explore/engage 5** - via Collaborate Ultra on Moodle, discuss the previous week's lecture, meditate, reflect, explain.
+- 1045-1145: **Experiment/play 5** - via Collaborate Ultra on Moodle, work on creative code exercises based on the previous week's lecture, our discussion in the previous hour and excerpts from [Code as Creative Medium: An educator's handbook](https://mitpress.mit.edu/books/code-creative-medium) by [Golan Levin](http://flong.com/) and [Tega Brain](http://tegabrain.com/) - Arrays exercises and Unpredictability exercises.
 - 1200-1300: **Watch/listen 6** - via Collaborate Ultra on Moodle, absorb a lecture from me on Timing, in preparation for next weeks session. [Slides for reference](https://jgl.github.io/CCIDiploma-AutumnWinter2021/slides/lecture_06.html).
 
 ## Week 7 - Tuesday 9th November 2021 (week 45 of 52) - Timing
 
 See the [Unit 1 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63591) for a link to the Collaborate Ultra Session for this week.
 
-- 1000-1100: **Explore/engage 6** - via Collaborate Ultra on Moodle, discuss the previous week's lecture, meditate, reflect, explain.
-- 1100-1200: **Experiment/play 6** - via Collaborate Ultra on Moodle, work on creative code exercises based on the previous week's lecture, our discussion in the previous hour and excerpts from [Code as Creative Medium: An educator's handbook](https://mitpress.mit.edu/books/code-creative-medium) by [Golan Levin](http://flong.com/) and [Tega Brain](http://tegabrain.com/) - Time and Interactivity exercises.
+- 0930-1030: **Explore/engage 6** - via Collaborate Ultra on Moodle, discuss the previous week's lecture, meditate, reflect, explain.
+- 1045-1145: **Experiment/play 6** - via Collaborate Ultra on Moodle, work on creative code exercises based on the previous week's lecture, our discussion in the previous hour and excerpts from [Code as Creative Medium: An educator's handbook](https://mitpress.mit.edu/books/code-creative-medium) by [Golan Levin](http://flong.com/) and [Tega Brain](http://tegabrain.com/) - Time and Interactivity exercises.
 - 1200-1300: **Watch/listen 7** - uvia Collaborate Ultra on Moodle, absorb a lecture from me on Classing, in preparation for next weeks session. [Slides for reference](https://jgl.github.io/CCIDiploma-AutumnWinter2021/slides/lecture_07.html).
 
 ## Week 8 - Tuesday 16th November 2021 (week 46 of 52) - Classing
 
 See the [Unit 1 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63591) for a link to the Collaborate Ultra Session for this week.
 
-- 1000-1100: **Explore/engage 7** - via Collaborate Ultra on Moodle, discuss the previous week's lecture, meditate, reflect, explain.
-- 1100-1200: **Experiment/play 7** - via Collaborate Ultra on Moodle, work on creative code exercises based on the previous week's lecture, our discussion in the previous hour and excerpts from [Code as Creative Medium: An educator's handbook](https://mitpress.mit.edu/books/code-creative-medium) by [Golan Levin](http://flong.com/) and [Tega Brain](http://tegabrain.com/) - Text and Language exercises.
+- 0930-1030: **Explore/engage 7** - via Collaborate Ultra on Moodle, discuss the previous week's lecture, meditate, reflect, explain.
+- 1045-1145: **Experiment/play 7** - via Collaborate Ultra on Moodle, work on creative code exercises based on the previous week's lecture, our discussion in the previous hour and excerpts from [Code as Creative Medium: An educator's handbook](https://mitpress.mit.edu/books/code-creative-medium) by [Golan Levin](http://flong.com/) and [Tega Brain](http://tegabrain.com/) - Text and Language exercises.
 - 1200-1300: **Watch/listen 8** - via Collaborate Ultra on Moodle, absorb a lecture from me on Images and Simulating, in preparation for next weeks session. [Slides for reference](https://jgl.github.io/CCIDiploma-AutumnWinter2021/slides/lecture_08.html).
 
 ## Week 9 - Tuesday 23rd November 2021 (week 47 of 52) - Images and Simulating
 
 See the [Unit 1 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63591) for a link to the Collaborate Ultra Session for this week.
 
-- 1000-1100: **Explore/engage 8** - via Collaborate Ultra on Moodle, discuss the previous week's lecture, meditate, reflect, explain.
-- 1100-1200: **Experiment/play 8** - via Collaborate Ultra on Moodle, work on creative code exercises based on the previous week's lecture, our discussion in the previous hour and excerpts from [Code as Creative Medium: An educator's handbook](https://mitpress.mit.edu/books/code-creative-medium) by [Golan Levin](http://flong.com/) and [Tega Brain](http://tegabrain.com/) - Images exercises and Simulation exercises.
+- 0930-1030: **Explore/engage 8** - via Collaborate Ultra on Moodle, discuss the previous week's lecture, meditate, reflect, explain.
+- 1045-1145: **Experiment/play 8** - via Collaborate Ultra on Moodle, work on creative code exercises based on the previous week's lecture, our discussion in the previous hour and excerpts from [Code as Creative Medium: An educator's handbook](https://mitpress.mit.edu/books/code-creative-medium) by [Golan Levin](http://flong.com/) and [Tega Brain](http://tegabrain.com/) - Images exercises and Simulation exercises.
 - 1200-1300: **Watch/listen 9** - via Collaborate Ultra on Moodle, absorb a lecture from me on Images and Simulating, in preparation for next weeks session. [Slides for reference](https://jgl.github.io/CCIDiploma-AutumnWinter2021/slides/lecture_09.html).
 
 ## Week 10 - Tuesday 30th November 2021 (week 48 of 52) - Mock exams
 
 See the [Unit 1 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63591) for a link to the Collaborate Ultra Session for this week.
 
-- 1000-1100: **Explore/engage 9** - via Collaborate Ultra on Moodle, discuss the previous week's lecture, meditate, reflect, explain.
-- 1100-1200: **Experiment/play 9** - via Collaborate Ultra on Moodle, mock programming challenge and mock multiple choice exam issued.
+- 0930-1030: **Explore/engage 9** - via Collaborate Ultra on Moodle, discuss the previous week's lecture, meditate, reflect, explain.
+- 1045-1145: **Experiment/play 9** - via Collaborate Ultra on Moodle, mock programming challenge and mock multiple choice exam issued.
 - 1200-1300: **Watch/listen 10** - via Collaborate Ultra on Moodle, absorb a lecture from me on openFrameworks and C++, in preparation for next weeks session. [Slides for reference](https://jgl.github.io/CCIDiploma-AutumnWinter2021/slides/lecture_10.html).
 
 ## Week 11 - Tuesday 7th December 2021 (week 49 of 52) - Remote learning - introduction to openFrameworks and C++
 
 See the [Unit 1 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63591) for a link to the Collaborate Ultra Session for this week.
 
-- 1000-1100: **Explore/engage 10** - via Collaborate Ultra on Moodle, discuss the previous week's lecture, meditate, reflect, explain.
-- 1100-1200: **Experiment/play 10** - via Collaborate Ultra on Moodle, work on creative code exercises based on the previous week's lecture and our discussion in the previous hour.
+- 0930-1030: **Explore/engage 10** - via Collaborate Ultra on Moodle, discuss the previous week's lecture, meditate, reflect, explain.
+- 1045-1145: **Experiment/play 10** - via Collaborate Ultra on Moodle, work on creative code exercises based on the previous week's lecture and our discussion in the previous hour.
 - 1200-1300: **Watch/listen 11** - via Collaborate Ultra on Moodle, absorb a lecture from me on Computer Vision in openFrameworks, in preparation for next weeks session. [Slides for reference](https://jgl.github.io/CCIDiploma-AutumnWinter2021/slides/lecture_11.html).
 
 ## Week 12 - Tuesday 11th January 2022 (week 2 of 52) - introduction to Computer Vision in openFrameworks
 
 See the [Unit 1 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63591) for a link to the Collaborate Ultra Session for this week.
 
-- 1000-1100: **Explore/engage 11** - via Collaborate Ultra on Moodle, discuss the previous week's lecture, meditate, reflect, explain.
-- 1100-1200: **Experiment/play 11** - via Collaborate Ultra on Moodle, work on creative code exercises based on the previous week's lecture and our discussion in the previous hour.
+- 0930-1030: **Explore/engage 11** - via Collaborate Ultra on Moodle, discuss the previous week's lecture, meditate, reflect, explain.
+- 1045-1145: **Experiment/play 11** - via Collaborate Ultra on Moodle, work on creative code exercises based on the previous week's lecture and our discussion in the previous hour.
 - 1200-1300: **Watch/listen 12** - via Collaborate Ultra on Moodle, use the [Unit 1 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63591) to absorb a lecture from me on where next, in preparation for next weeks session. [Slides for reference](https://jgl.github.io/CCIDiploma-AutumnWinter2021/slides/lecture_12.html).
 
 ## Week 13 - Tuesday 18th January 2022 (week 3 of 52) - Where next?
 
 See the [Unit 1 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63591) for a link to the Collaborate Ultra Session for this week.
 
-- 1000-1100: **Explore/engage 12** - via Collaborate Ultra on Moodle, discuss the previous week's lecture, meditate, reflect, explain.
-- 1100-1200: **Experiment/play 12** - via Collaborate Ultra on Moodle, work on creative code exercises based on the previous week's lecture and our discussion in the previous hour.
+- 0930-1030: **Explore/engage 12** - via Collaborate Ultra on Moodle, discuss the previous week's lecture, meditate, reflect, explain.
+- 1045-1145: **Experiment/play 12** - via Collaborate Ultra on Moodle, work on creative code exercises based on the previous week's lecture and our discussion in the previous hour.
 - 1200-1300: **Watch/listen 13** - via Collaborate Ultra on Moodle, absorb a lecture from me on TBC. [Slides for reference](https://jgl.github.io/CCIDiploma-AutumnWinter2021/slides/lecture_13.html).
 
 Further sessions are TBC, depending on multiple choice test and practical exam timings, and other unit's assessment timings.
