@@ -19,6 +19,7 @@
 - [Take a look at the student/crowd sourced set of notes on all of Block 1 from last years Diplomats!](https://github.com/rociorey/cci-2020/wiki).
 - [The Library Services Web pages aim to provide quick access to a range of relevant high quality e-resources](https://www.arts.ac.uk/students/library-services). Benelia Salmon is the Academic Support Librarian for CCI: [b.salmon@arts.ac.uk](mailto:b.salmon@arts.ac.uk). Please contact her at the email address above if you have any questions regarding library resources or if you wish to book a one-to-one session on library information and research skills. You can find more information on CCI specific library resources in your [Creative Computing Institute subject guide](https://arts.ac.libguides.com/CCI).
 - LinkedIn Learning (formally Lynda.com) is also a great resource for learning software packages, coding or even 3D tools like Blender. You can find a link to LinkedIn Learning on <https://canvas.arts.ac.uk/>.
+- <https://wiki.cci.arts.ac.uk/> is the Wiki for all of CCI, lots of resources and tutorial there about equipment, software and content on Physical Computing, Creative Code and Digital Making.
 
 ## Code of Conduct
 
