@@ -54,7 +54,7 @@ The [Diploma in Creative Computing](https://www.arts.ac.uk/subjects/creative-com
 
 ## Learning Outcomes and platforms for doing so
 
-Please read [UAL's guidance for students on how they will be assessed](https://www.arts.ac.uk/study-at-ual/academic-regulations/course-regulations/assessment). [TLDR](https://www.urbandictionary.com/define.php?term=TLDR): you will be assessed on the following 5 assessment criteria (quoting from [UAL's page](https://www.arts.ac.uk/study-at-ual/academic-regulations/course-regulations/assessment)):
+Please read [UAL's guidance for students on how they will be assessed](https://www.arts.ac.uk/study-at-ual/academic-regulations/course-regulations/assessment). [TLDR](https://www.urbandictionary.com/define.php?term=TLDR): you will be assessed on the following 5 assessment criteria (quoting from [UAL's page](https://www.arts.ac.uk/study-at-ual/academic-regulations/course-regulations/assessment) - I REALLY recommend watching the video here if you haven't already):
 
 1. **Enquiry**
    - Enquiry is about active learning and reflection. It’s how you explore, research and learn about your subject. Enquiry is central to all creative learning at UAL.
@@ -66,6 +66,8 @@ Please read [UAL's guidance for students on how they will be assessed](https://w
    - Communication is about telling the story of your learning and making. It’s how you share your learning with an audience, presenting and explaining your work to different people.
 5. **Realisation**
    - Realisation is about the work you create and how this reveals what you’ve learned. It’s taking a look back and evaluating the work you’ve produced.
+
+N.B. The Diploma is assessed to [Level 5 Assessment Criteria Descriptors](https://www.arts.ac.uk/study-at-ual/academic-regulations/course-regulations/assessment) - see the link to the PDF at the bottom of this page.
 
 At the end of this block (midway through the 2022 Spring term) you should have the following outcomes, with subheadings for methods and platforms we will use to do so. To be clear, I want you to obtain knowledge and then use that to make projects. My aim is to have every student graduate with new creative computing core knowledge and a portfolio of projects that relate that new creative computing knowledge to their chosen BA subject elsewhere at University of the Arts London (UAL).
 
