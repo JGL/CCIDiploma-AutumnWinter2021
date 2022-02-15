@@ -45,7 +45,7 @@ The [Diploma in Creative Computing](https://www.arts.ac.uk/subjects/creative-com
 
 - Unit 1: Creative Coding and Creative Computing Frameworks - taught by me.
 - Unit 2: Introducing Computational Futures and Artificial Intelligence - taught by [Murad Khan](https://www.muradkhan.co.uk/).
-- Unit 3: Creative Practice: Visual Coding and Physical Computing - taught by [Andy Sheen and Mike Vanis of VAST](https://www.plummerfernandez.com/).
+- Unit 3: Creative Practice: Visual Coding and Physical Computing - taught by [Andy Sheen and Mike Vanis of VAST](http://v-a-s-t.co/).
 
 **Block 2** consists of three units:
 
