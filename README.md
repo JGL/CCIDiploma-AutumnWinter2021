@@ -2,7 +2,7 @@
 
 ## Information
 
-- [All term dates](https://www.arts.ac.uk/students/term-dates) - N.B. if you are doing a degree at UAL you are in [Higher Education](https://en.wikipedia.org/wiki/Higher_education).
+<!-- - - [All term dates](https://www.arts.ac.uk/students/term-dates) - N.B. if you are doing a degree at UAL you are in [Higher Education](https://en.wikipedia.org/wiki/Higher_education). -->
 - Lecturer: [Joel Gethin Lewis](https://joelgethinlewis.com/).
 - Location: [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute), in person at Camberwell, London and online via Collaborate Ultra on [ual:Moodle](https://moodle.arts.ac.uk/).
 - Contact me via the [UAL Creative Computing Institute Slack](https://ual-cci.slack.com).
