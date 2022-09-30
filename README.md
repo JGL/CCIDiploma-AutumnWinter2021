@@ -108,11 +108,11 @@ I would STRONGLY encourage you to complete the mocks when I issue them for both 
 
 You can find [the first year of the Diploma Unit 1 Multiple Choice test here](https://jgl.github.io/CCIDiploma-AutumnWinter2020/pdf/2020_01_20_Unit1MultipleChoiceTest.pdf) and [the first year of the Diploma Unit 1 Practical exam here](https://jgl.github.io/CCIDiploma-AutumnWinter2020/pdf/2020_01_27_Unit1PracticalExam.pdf).
 
-Units 2 and 5 are assessed via an essay.
+<!-- Units 2 and 5 are assessed via an essay.
 
-Units 3 and 6 are assessed via the submission of a 5 minute video and accompanying PDF document.
+Units 3 and 6 are assessed via the submission of a 5 minute video and accompanying PDF document. -->
 
-## Experiment/Play exercises
+<!-- ## Experiment/Play exercises
 
 In addition to the **formal assessment** at the end of **Blocks 1 and 2**, we will be participating in weekly **Experiment/play** workshops. We will discuss and work on the weekly exercises in groups of three on Monday afternoons during the **Experiment/play** hour. The weekly **Experiment/play** exercises won't be assessed, but will be in your interest to complete.
 
@@ -124,7 +124,7 @@ This of idea of small technical exercises was inspired by [Caitlin Morris](http:
 
 ~~Throughout the term, you will be working in pairs. This is a technique known as [Pair Programming](https://en.wikipedia.org/wiki/Pair_programming). You may change pair partner as often or sparingly as you like.~~
 
-Following the <a href="https://twitter.com/helenbevan/status/1175650749797167104?s=11">latest research</a>, I've decided to shift us from pairs to threes. After all, <a href="https://www.youtube.com/watch?v=np0YIaHv6LQ">three is a magic number</a>.
+Following the <a href="https://twitter.com/helenbevan/status/1175650749797167104?s=11">latest research</a>, I've decided to shift us from pairs to threes. After all, <a href="https://www.youtube.com/watch?v=np0YIaHv6LQ">three is a magic number</a>. -->
 
 ## Block 1, Unit 1 schedule:
 
