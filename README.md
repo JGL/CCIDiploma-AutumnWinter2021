@@ -1,6 +1,5 @@
 # Lecture/workshop slides and wiki for Unit 1 of the [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute)'s 2022/2023 [Diploma in Creative Computing](https://www.arts.ac.uk/subjects/creative-computing/undergraduate/ual-creative-computing-institute-diploma).
 
-
 ## Information
 
 - [All term dates](https://www.arts.ac.uk/students/term-dates) 
@@ -91,7 +90,7 @@ At the end of this block (midway through the 2022 Spring term) you should have t
 - [p5.js editor](https://editor.p5js.org/)
 - [GitHub](https://github.com/)
 
-### Teaching Style
+<!-- ### Teaching Style
 
 I want to spend as much time working through problems and discussing them together, rather than you listening to me lecture. Each Tuesday's teaching session will be structured in the following way:
 
@@ -99,7 +98,7 @@ I want to spend as much time working through problems and discussing them togeth
 - Hour 2: 1045-1145: **Experiment/play** - work on creative code exercises based on the previous week's lecture, our discussion in the previous hour and excerpts from [Code as Creative Medium: An educator's handbook](https://mitpress.mit.edu/books/code-creative-medium) by [Golan Levin](http://flong.com/) and [Tega Brain](http://tegabrain.com/).
 - Hour 3: 1200-1300: **Watch/listen** - absorb a lecture from me, in preparation for next weeks session.
 
-_**You are expected to undertake independent study of 25 hours per week over the three units that you will be taught every block.**_
+_**You are expected to undertake independent study of 25 hours per week over the three units that you will be taught every block.**_ -->
 
 ## Assessment
 
@@ -129,9 +128,9 @@ Following the <a href="https://twitter.com/helenbevan/status/1175650749797167104
 
 ## Block 1, Unit 1 schedule:
 
-## Week 1 - Tuesday 28th September 2021 (week 39 of 52) - Introduction
+## Week 1 - Monday 26th September 2022 - Introduction to the course
 
-See the [Unit 1 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63591) for a link to the Collaborate Ultra Session for this week.
+<!-- See the [Unit 1 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63591) for a link to the Collaborate Ultra Session for this week.
 
 - 1000-1100: **Introduction lecture** - via Collaborate Ultra on Moodle, watch my introduction lecture on the course, creative coding, JavaScript and specifically p5.js. [Slides for reference](https://jgl.github.io/CCIDiploma-AutumnWinter2021/slides/lecture_00.html).
 - 1100-1200: via Collaborate Ultra on Moodle particpate in the [**Introduction workshop**](https://jgl.github.io/CCIDiploma-AutumnWinter2021/slides/workshop_00.html) - signing up for websites, introducing yourselves and having a discussion about the unit and course.
@@ -139,8 +138,8 @@ See the [Unit 1 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63591) for 
 
 
 
-Further sessions are TBC, depending on multiple choice test and practical exam timings, and other unit's assessment timings.
+Further sessions are TBC, depending on multiple choice test and practical exam timings, and other unit's assessment timings. -->
 
-## Thanks
+<!-- ## Thanks
 
-Thanks to Matthew Plummer-Fernández, Murad Khan, Matt Pyke, Andy Cameron, JT Nimoy, Alex Fefegha, Anna Troisi, Ben Kelly, Cathy Hoste, Charlotte Webb, Julia Makivic, Kenneth Lim, Matt Jarvis, Melisa Simpson, Phoenix Perry, Rebecca Fiebrink, Sheldon Brown, Tom Lynch, Eva Wilkinson, Vali Lalioti, Indira Knight, Alice Stewart, Ben Stopher, Mick Grierson, Georgina Capdevila Cano, Alan Warburton, Rebecca Ross, Jaap de Maat, Lauren McCarthy, Kyle McDonald, Jonathan Harris, Zach Lieberman, Jessica Bland, Rick Walker, Graham Bennett, Toby Milner-Gulland, Liam Walsh, Golan Levin, Greg Smith, Mark Lundin, Xiaohan Zhang, Lia, Joshua Goldberg, Rosa Menkman, Daniel Shiffman, Tega Brain, Caitlin Morris, Harri Lewis and Rune Madsen.
+Thanks to Matthew Plummer-Fernández, Murad Khan, Matt Pyke, Andy Cameron, JT Nimoy, Alex Fefegha, Anna Troisi, Ben Kelly, Cathy Hoste, Charlotte Webb, Julia Makivic, Kenneth Lim, Matt Jarvis, Melisa Simpson, Phoenix Perry, Rebecca Fiebrink, Sheldon Brown, Tom Lynch, Eva Wilkinson, Vali Lalioti, Indira Knight, Alice Stewart, Ben Stopher, Mick Grierson, Georgina Capdevila Cano, Alan Warburton, Rebecca Ross, Jaap de Maat, Lauren McCarthy, Kyle McDonald, Jonathan Harris, Zach Lieberman, Jessica Bland, Rick Walker, Graham Bennett, Toby Milner-Gulland, Liam Walsh, Golan Levin, Greg Smith, Mark Lundin, Xiaohan Zhang, Lia, Joshua Goldberg, Rosa Menkman, Daniel Shiffman, Tega Brain, Caitlin Morris, Harri Lewis and Rune Madsen. -->
