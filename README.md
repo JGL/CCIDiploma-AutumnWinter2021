@@ -1,22 +1,23 @@
-# Lecture/workshop slides and wiki for Unit 1 of the [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute)'s 2020/2021 [Diploma in Creative Computing](https://www.arts.ac.uk/subjects/creative-computing/undergraduate/ual-creative-computing-institute-diploma).
+# Lecture/workshop slides and wiki for Unit 1 of the [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute)'s 2022/2023 [Diploma in Creative Computing](https://www.arts.ac.uk/subjects/creative-computing/undergraduate/ual-creative-computing-institute-diploma).
+
 
 ## Information
 
-<!-- - - [All term dates](https://www.arts.ac.uk/students/term-dates) - N.B. if you are doing a degree at UAL you are in [Higher Education](https://en.wikipedia.org/wiki/Higher_education). -->
-- Lecturer: [Joel Gethin Lewis](https://joelgethinlewis.com/).
-- Location: [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute), in person at Camberwell, London and online via Collaborate Ultra on [ual:Moodle](https://moodle.arts.ac.uk/).
-- Contact me via the [UAL Creative Computing Institute Slack](https://ual-cci.slack.com).
-- Weekly Unit 1 remote teaching times are every Tuesday 0930-1300 via Collaborate Ultra on [ual:Moodle](https://moodle.arts.ac.uk/).
+- [All term dates](https://www.arts.ac.uk/students/term-dates) 
+- Lecturers: Irti, Nicola Plant, Tom Keene and Pauline 
+- Location: [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute), in person at the Greencoat Building.
+- Contact us via the [UAL Creative Computing Institute Slack](https://ual-cci.slack.com).
+- Weekly Unit teaching times are every Monday 09:30-13:30.
 - _**You are expected to undertake independent study of about 25 hours per week - spread across all the courses you are taking in the Diploma.**_
-- Tutorials take place every Monday. These tutorials are for you to discuss anything you'd like - from the how the course is going, to your own practice, to work placements or anything else. My aim is to have at least two tutorials with every student on the diploma every term.
+<!-- - Tutorials take place every Monday. These tutorials are for you to discuss anything you'd like - from the how the course is going, to your own practice, to work placements or anything else. My aim is to have at least two tutorials with every student on the diploma every term.
   - Remote session 1: Mondays 1030-1300.
-  - Remote session 2: Mondays 1400-1730.
-  - Please see the [Unit 1 Wiki Tutorial Schedule](https://github.com/JGL/CCIDiploma-AutumnWinter2021/wiki/Tutorial-Schedule) for details of when **your next** tutorial will be.
-- If **your next** tutorial is too far away, or you have a more urgent question, please message me on the [UAL Creative Computing Institute Slack](https://ual-cci.slack.com).
-- [Unit 1 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63591) - see the Unit 1 Moodle for links to Collaborate Ultra links to our remote sessions.
-- [Lecture and Workshop slides](https://jgl.github.io/CCIDiploma-AutumnWinter2021/)
-- Please see the [Unit 1 Wiki for all non-lecture notes, reading lists and other resources](https://github.com/JGL/CCIDiploma-AutumnWinter2021/wiki).
-- [Take a look at the student/crowd sourced set of notes on all of Block 1 from last years Diplomats!](https://github.com/rociorey/cci-2020/wiki).
+  - Remote session 2: Mondays 1400-1730. -->
+  <!-- - Please see the [Unit 1 Wiki Tutorial Schedule](https://github.com/JGL/CCIDiploma-AutumnWinter2021/wiki/Tutorial-Schedule) for details of when **your next** tutorial will be. -->
+<!-- - If **your next** tutorial is too far away, or you have a more urgent question, please message me on the [UAL Creative Computing Institute Slack](https://ual-cci.slack.com). -->
+<!-- - [Unit 1 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63591) - see the Unit 1 Moodle for links to Collaborate Ultra links to our remote sessions. -->
+<!-- - [Lecture and Workshop slides](https://jgl.github.io/CCIDiploma-AutumnWinter2021/) -->
+<!-- - Please see the [Unit 1 Wiki for all non-lecture notes, reading lists and other resources](https://github.com/JGL/CCIDiploma-AutumnWinter2021/wiki). -->
+<!-- - [Take a look at the student/crowd sourced set of notes on all of Block 1 from last years Diplomats!](https://github.com/rociorey/cci-2020/wiki). -->
 - [The Library Services Web pages aim to provide quick access to a range of relevant high quality e-resources](https://www.arts.ac.uk/students/library-services). Benelia Salmon is the Academic Support Librarian for CCI: [b.salmon@arts.ac.uk](mailto:b.salmon@arts.ac.uk). Please contact her at the email address above if you have any questions regarding library resources or if you wish to book a one-to-one session on library information and research skills. You can find more information on CCI specific library resources in your [Creative Computing Institute subject guide](https://arts.ac.libguides.com/CCI).
 - LinkedIn Learning (formally Lynda.com) is also a great resource for learning software packages, coding or even 3D tools like Blender. You can find a link to LinkedIn Learning on <https://canvas.arts.ac.uk/>.
 - <https://wiki.cci.arts.ac.uk/> is the Wiki for all of CCI, lots of resources and tutorial there about equipment, software and content on Physical Computing, Creative Code and Digital Making.
@@ -43,15 +44,15 @@ The [Diploma in Creative Computing](https://www.arts.ac.uk/subjects/creative-com
 
 **Block 1** consists of three units:
 
-- Unit 1: Creative Coding and Creative Computing Frameworks - taught by me.
-- Unit 2: Introducing Computational Futures and Artificial Intelligence - taught by [Murad Khan](https://www.muradkhan.co.uk/).
-- Unit 3: Creative Practice: Visual Coding and Physical Computing - taught by [Andy Sheen and Mike Vanis of VAST](http://v-a-s-t.co/).
+- Unit 1: Creative Coding and Creative Computing Frameworks 
+- Unit 2: Introducing Computational Futures and Artificial Intelligence 
+- Unit 3: Creative Practice: Visual Coding and Physical Computing 
 
 **Block 2** consists of three units:
 
-- Unit 4: Coding for Collaborative App Development - taught by me.
-- Unit 5: Working and the Digital Creative Industries - taught by TBC.
-- Unit 6: Creative Practice: Computational Environments - taught by [Murad Khan](https://www.muradkhan.co.uk/).
+- Unit 4: Coding for Collaborative App Development 
+- Unit 5: Working and the Digital Creative Industries 
+- Unit 6: Creative Practice: Computational Environments 
 
 ## Learning Outcomes and platforms for doing so
 
@@ -77,12 +78,12 @@ At the end of this block (midway through the 2022 Spring term) you should have t
 1. Code creative computing assets in relevant languages (_Knowledge_, _Process_)
 
 - [JavaScript](https://en.m.wikipedia.org/wiki/JavaScript)
-- [C++](https://en.m.wikipedia.org/wiki/C++)
+<!-- - [C++](https://en.m.wikipedia.org/wiki/C++) -->
 
 2. Understand the use of key frameworks for creative computing (_Knowledge_, _Process_)
 
 - [p5.js](https://p5js.org/)
-- [openFrameworks](https://openframeworks.cc/)
+<!-- - [openFrameworks](https://openframeworks.cc/) -->
 
 3. Use online tools to collaborate and support your creative computing projects (_Enquiry_, _Communication_)
 
