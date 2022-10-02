@@ -94,29 +94,9 @@ _**You are expected to undertake independent study of 25 hours per week over the
 
 ## Assessment
 
-At the end of Block 1 (halfway through the Spring Term) and at the end of Block 2 (at the end of the Summer Term), you will be assessed individually. The two units I teach (Unit 1 and Unit 4) are assessed in the same way, via multiple choice test and practical exam. Each part is worth 50% of the unit mark. In the multiple choice test you will be presented with a 20 questions relating explicitly to course content. You must choose between up to 4 potentially correct answers per question. You will be given 1 hour to complete the 20 multiple choice questions. In the Practical Exam you will be individually asked to write a basic program to demonstrate the application of creative coding to a set problem. You will be given 2 hours to complete the Practical Exam.
-
-I would STRONGLY encourage you to complete the mocks when I issue them for both Units 1 and 4 multiple choice/practical exams - not just to practice them, but to practice SUBMITTING your work - last year I had several students fail exams because they submitted the wrong files for their practical exams, or didn't submit their multiple choice tests correctly.
+At the end of Block 1 you will be assessed individually via multiple choice test and practical exam. Each part is worth 50% of the unit mark. In the multiple choice test you will be presented with a 20 questions relating explicitly to course content. You must choose between up to 4 potentially correct answers per question. You will be given 1 hour to complete the 20 multiple choice questions. In the Practical Exam you will be individually asked to write a basic program to demonstrate the application of creative coding to a set problem. You will be given 2 hours to complete the Practical Exam.
 
 You can find [the first year of the Diploma Unit 1 Multiple Choice test here](https://jgl.github.io/CCIDiploma-AutumnWinter2020/pdf/2020_01_20_Unit1MultipleChoiceTest.pdf) and [the first year of the Diploma Unit 1 Practical exam here](https://jgl.github.io/CCIDiploma-AutumnWinter2020/pdf/2020_01_27_Unit1PracticalExam.pdf).
-
-<!-- Units 2 and 5 are assessed via an essay.
-
-Units 3 and 6 are assessed via the submission of a 5 minute video and accompanying PDF document. -->
-
-<!-- ## Experiment/Play exercises
-
-In addition to the **formal assessment** at the end of **Blocks 1 and 2**, we will be participating in weekly **Experiment/play** workshops. We will discuss and work on the weekly exercises in groups of three on Monday afternoons during the **Experiment/play** hour. The weekly **Experiment/play** exercises won't be assessed, but will be in your interest to complete.
-
-The **Experiment/play** exercises will be based on excerpts from [Code as Creative Medium: An educator's handbook](https://mitpress.mit.edu/books/code-creative-medium) by [Golan Levin](http://flong.com/) and [Tega Brain](http://tegabrain.com/).
-
-This of idea of small technical exercises was inspired by [Caitlin Morris](http://www.caitlinmorris.net/) and her advice:
-
-> Remind students that technical exercises can be the root of a bigger idea. I’ve had students submit small sketches along with their introductory exercises under the prompt of “if I worked on this for another month/year, what could it become?”. Some really beautiful ideas emerge and I’ve found that it makes students more concept-attentive in their weekly projects, as well as providing some groundwork for larger final projects.
-
-~~Throughout the term, you will be working in pairs. This is a technique known as [Pair Programming](https://en.wikipedia.org/wiki/Pair_programming). You may change pair partner as often or sparingly as you like.~~
-
-Following the <a href="https://twitter.com/helenbevan/status/1175650749797167104?s=11">latest research</a>, I've decided to shift us from pairs to threes. After all, <a href="https://www.youtube.com/watch?v=np0YIaHv6LQ">three is a magic number</a>. -->
 
 ## Block 1, Unit 1 schedule:
 
