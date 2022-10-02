@@ -3,8 +3,8 @@
 ## Information
 
 - [All term dates](https://www.arts.ac.uk/students/term-dates) 
-- Lecturers: Irti, Nicola Plant, Tom Keene and Pauline 
-- Location: [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute), in person at the Greencoat Building.
+- Lecturers: Irti Nasar, Nicola Plant, Tom Keene and Pauline van Mourik Broekmann 
+- Location: [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute), in person at the Greencoat Building on Wilson Road.
 - Contact us via the [UAL Creative Computing Institute Slack](https://ual-cci.slack.com).
 - Weekly Unit teaching times are every Monday 09:30-13:30.
 - _**You are expected to undertake independent study of about 25 hours per week - spread across all the courses you are taking in the Diploma.**_
@@ -49,7 +49,7 @@ The [Diploma in Creative Computing](https://www.arts.ac.uk/subjects/creative-com
 
 **Block 2** consists of three units:
 
-- Unit 4: Coding for Collaborative App Development 
+- Unit 4: Creative Coding: Critical Infrastructures
 - Unit 5: Working and the Digital Creative Industries 
 - Unit 6: Creative Practice: Computational Environments 
 
@@ -90,14 +90,6 @@ At the end of this block (midway through the 2022 Spring term) you should have t
 - [p5.js editor](https://editor.p5js.org/)
 - [GitHub](https://github.com/)
 
-<!-- ### Teaching Style
-
-I want to spend as much time working through problems and discussing them together, rather than you listening to me lecture. Each Tuesday's teaching session will be structured in the following way:
-
-- Hour 1: 0930-1030: **Explore/engage** - discuss the previous week's lecture, meditate, reflect, explain.
-- Hour 2: 1045-1145: **Experiment/play** - work on creative code exercises based on the previous week's lecture, our discussion in the previous hour and excerpts from [Code as Creative Medium: An educator's handbook](https://mitpress.mit.edu/books/code-creative-medium) by [Golan Levin](http://flong.com/) and [Tega Brain](http://tegabrain.com/).
-- Hour 3: 1200-1300: **Watch/listen** - absorb a lecture from me, in preparation for next weeks session.
-
 _**You are expected to undertake independent study of 25 hours per week over the three units that you will be taught every block.**_ -->
 
 ## Assessment
@@ -130,11 +122,30 @@ Following the <a href="https://twitter.com/helenbevan/status/1175650749797167104
 
 ## Week 1 - Monday 26th September 2022 - Introduction to the course
 
-<!-- See the [Unit 1 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63591) for a link to the Collaborate Ultra Session for this week.
+See the [Unit 1 Moodle](https://moodle.arts.ac.uk/course/view.php?id=71219) for a recording of this week's session.
 
-- 1000-1100: **Introduction lecture** - via Collaborate Ultra on Moodle, watch my introduction lecture on the course, creative coding, JavaScript and specifically p5.js. [Slides for reference](https://jgl.github.io/CCIDiploma-AutumnWinter2021/slides/lecture_00.html).
-- 1100-1200: via Collaborate Ultra on Moodle particpate in the [**Introduction workshop**](https://jgl.github.io/CCIDiploma-AutumnWinter2021/slides/workshop_00.html) - signing up for websites, introducing yourselves and having a discussion about the unit and course.
-- 1200-1300: **Watch/listen 1** - via Collaborate Ultra on Moodle absorb a lecture from me on Counting and Remembering, in preparation for next weeks session. [Slides for reference](https://jgl.github.io/CCIDiploma-AutumnWinter2021/slides/lecture_01.html).
+Hour 1 - **Introduction to Diploma + Creative Computing**
+
+Hour 2 - **Unit Introduction**
+
+Hour 3 - **Introduction to Git + VSCode**
+
+Hour 4 - **Theories/Histories + Command Line**
+
+
+### Reading/Resources 
+
+Chun, W.H.K., 2011. Programmed visions: Software and memory. Mit Press. Pp.1-11 
+
+sHicks, M., 2017. Programmed inequality: How Britain discarded women technologists and lost its edge in computing. MIT Press. 
+
+Liu, W. 2018. Freedom isn’t Free. Logic Magazine. Issue 5, Failure.  
+
+Trevorssah, A. 2016. A Brief History of the Command Line. Free Code Camp. https://www.freecodecamp.org/news/the-command-line-1fdbc692b3bf 
+
+Ritchie, D.M. 1977. The UNIX Time-sharing System - A Retrospective*. Bell Laboratories. 
+
+YoHa. 2013. Lions’ Commentary on UNIX 6th Edition, with Source Code. http://yoha.co.uk/node/678. 
 
 
 
